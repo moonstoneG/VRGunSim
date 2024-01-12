@@ -1,0 +1,1076 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+Stats thread started at 0.187081
+ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+Loading text-based GConfig....
+Mounting plugin MeshPainting
+Mounting plugin XGEController
+Mounting plugin Paper2D
+Mounting plugin LiveLink
+Mounting plugin OodleNetwork
+Mounting plugin AISupport
+Mounting plugin OodleData
+Mounting plugin LightPropagationVolume
+Mounting plugin GameplayCameras
+Mounting plugin CameraShakePreviewer
+Mounting plugin AnimationSharing
+Mounting plugin EnvironmentQueryEditor
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin AssetManagerEditor
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin GitSourceControl
+Mounting plugin PlasticSourceControl
+Mounting plugin PluginUtils
+Mounting plugin TextureFormatOodle
+Mounting plugin DataValidation
+Mounting plugin PropertyAccessNode
+Mounting plugin SubversionSourceControl
+Mounting plugin UObjectPlugin
+Mounting plugin FacialAnimation
+Mounting plugin GameplayTagsEditor
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin RiderSourceCodeAccess
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin NullSourceCodeAccess
+Mounting plugin PixWinPlugin
+Mounting plugin CurveEditorTools
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin DatasmithContent
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin MacGraphicsSwitching
+Mounting plugin GeometryMode
+Mounting plugin MaterialAnalyzer
+Mounting plugin SpeedTreeImporter
+Mounting plugin AndroidMedia
+Mounting plugin PluginBrowser
+Mounting plugin VariantManagerContent
+Mounting plugin PerforceSourceControl
+Mounting plugin CryptoKeys
+Mounting plugin AvfMedia
+Mounting plugin LuminPlatformFeatures
+Mounting plugin MagicLeap
+Mounting plugin ImgMedia
+Mounting plugin MediaCompositing
+Mounting plugin MediaPlayerEditor
+Mounting plugin MLSDK
+Mounting plugin AutomationUtils
+Mounting plugin MagicLeapLightEstimation
+Mounting plugin MagicLeapMedia
+Mounting plugin MagicLeapPassableWorld
+Mounting plugin AlembicImporter
+Mounting plugin WebMMedia
+Mounting plugin WmfMedia
+Mounting plugin BackChannel
+Mounting plugin ChaosCloth
+Mounting plugin ChaosClothEditor
+Mounting plugin CharacterAI
+Mounting plugin ChaosEditor
+Mounting plugin ChaosNiagara
+Mounting plugin ChaosSolverPlugin
+Mounting plugin GeometryCache
+Mounting plugin OpenImageDenoise
+Mounting plugin GeometryProcessing
+Mounting plugin PlatformCrypto
+Mounting plugin GeometryCollectionPlugin
+Mounting plugin MotoSynth
+Mounting plugin PythonScriptPlugin
+Mounting plugin PlanarCut
+Mounting plugin ProxyLODPlugin
+Mounting plugin Niagara
+Mounting plugin TcpMessaging
+Mounting plugin UdpMessaging
+Mounting plugin LevelSequenceEditor
+Mounting plugin SkeletalReduction
+Mounting plugin ActorSequence
+Mounting plugin MatineeToLevelSequence
+Mounting plugin OnlineSubsystemNull
+Mounting plugin OnlineSubsystem
+Mounting plugin LauncherChunkInstaller
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin TemplateSequence
+Mounting plugin ActorLayerUtilities
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidPermission
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AppleImageUtils
+Mounting plugin AppleMoviePlayer
+Mounting plugin ArchVisCharacter
+Mounting plugin AudioCapture
+Mounting plugin AssetTags
+Mounting plugin CableComponent
+Mounting plugin ChunkDownloader
+Mounting plugin AudioSynesthesia
+Mounting plugin CustomMeshComponent
+Mounting plugin EditableMesh
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin GoogleCloudMessaging
+Mounting plugin MobilePatchingUtils
+Mounting plugin HPMotionController
+Mounting plugin GooglePAD
+Mounting plugin ScreenshotTools
+Mounting plugin OpenXRHandTracking
+Mounting plugin PhysXVehicles
+Mounting plugin OpenXR
+Mounting plugin OpenXREyeTracker
+Mounting plugin PostSplashScreen
+Mounting plugin ProceduralMeshComponent
+Mounting plugin PropertyAccessEditor
+Mounting plugin ResonanceAudio
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SignificanceManager
+Mounting plugin SoundFields
+Mounting plugin Takes
+Mounting plugin Synthesis
+Mounting plugin WebMMoviePlayer
+Mounting plugin WindowsMoviePlayer
+Mounting plugin ContentBrowserAssetDataSource
+Mounting plugin ContentBrowserClassDataSource
+Mounting plugin ContentBrowserFileDataSource
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OculusOpenXR
+Mounting plugin TacticalVRCore
+Mounting plugin VRExpansionPlugin
+Mounting plugin OpenVRExpansionPlugin
+Mounting plugin OpenXRExpansionPlugin
+Incompatible or missing module: TacticalVRTemplate
+Incompatible or missing module: TacticalVRCore
+Incompatible or missing module: TacticalVRCoreEditor
+Incompatible or missing module: VRExpansionPlugin
+Incompatible or missing module: VRExpansionEditor
+Incompatible or missing module: OpenVRExpansionPlugin
+Incompatible or missing module: OpenXRExpansionPlugin
+Incompatible or missing module: OpenXRExpansionEditor
+Running E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="D:/TacticalVRCoreExample-main/TacticalVRTemplate.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Creating makefile for TacticalVRTemplateEditor (no existing makefile)
+@progress push 5%
+Parsing headers for TacticalVRTemplateEditor
+  Running UnrealHeaderTool "D:\TacticalVRCoreExample-main\TacticalVRTemplate.uproject" "D:\TacticalVRCoreExample-main\Intermediate\Build\Win64\TacticalVRTemplateEditor\Development\TacticalVRTemplateEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Admin\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+LogInit: Display: Loading text-based GConfig....
+Reflection code generated for TacticalVRTemplateEditor in 3.1947268 seconds
+@progress pop
+Building TacticalVRTemplateEditor...
+Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Distributing 57 actions to XGE
+
+Build ID: {684EC785-68E3-4C12-BA63-BAB56AA8289F}
+
+--------------------Project: Default-------------------------------------------
+Default.rc2 (0:00.12 at +0:00)
+Default.rc2 (0:00.04 at +0:00)
+Default.rc2 (0:00.04 at +0:00)
+Default.rc2 (0:00.06 at +0:00)
+Default.rc2 (Agent 'Dnvmpv3-goj (Core #5)', 0:00.51 at +0:00)
+Default.rc2 (Agent 'Dnvmpv3-goj (Core #2)', 0:00.50 at +0:00)
+Default.rc2 (Agent 'Dnvmpv3-goj (Core #4)', 0:00.50 at +0:00)
+Default.rc2 (Agent 'Dnvmpv3-goj (Core #6)', 0:00.51 at +0:00)
+SharedPCH.UnrealEd.ShadowErrors.cpp
+Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+SharedPCH.Engine.ShadowErrors.cpp
+Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+Module.OpenXRExpansionPlugin.gen.cpp
+Module.VRExpansionPlugin.4_of_4.cpp
+Module.VRExpansionPlugin.2_of_4.cpp
+TacticalVRTemplate.cpp
+MyActor.cpp
+MyActor.gen.cpp
+Module.OpenVRExpansionPlugin.gen.cpp
+Module.OpenVRExpansionPlugin.cpp
+UE4Editor-OpenVRExpansionPlugin.lib (0:00.21 at +1:31)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.exp
+UE4Editor-OpenVRExpansionPlugin.dll (0:00.86 at +1:31)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.suppressed.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.suppressed.exp
+Module.VRExpansionPlugin.gen.3_of_8.cpp
+Module.VRExpansionPlugin.gen.1_of_8.cpp
+Module.VRExpansionPlugin.gen.6_of_8.cpp
+Module.VRExpansionPlugin.gen.5_of_8.cpp
+Module.VRExpansionPlugin.gen.2_of_8.cpp
+Module.VRExpansionPlugin.gen.4_of_8.cpp
+Module.VRExpansionPlugin.gen.7_of_8.cpp
+Module.VRExpansionPlugin.1_of_4.cpp
+Module.VRExpansionPlugin.gen.8_of_8.cpp
+D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Misc/VRWheeledVehicle.h(28): warning C4996: 'AWheeledVehicle': PhysX is deprecated. Use the AWheeledVehiclePawn from the ChaosVehiclePhysics Plugin. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Misc/VRWheeledVehicle.h(138): warning C4996: 'UWheeledVehicleMovementComponent': PhysX is deprecated. Use the UChaosWheeledVehicleMovementComponent fron the ChaosVehiclePhysics Plugin. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Misc/VRWheeledVehicle.h(138): warning C4996: 'UWheeledVehicleMovementComponent': PhysX is deprecated. Use the UChaosWheeledVehicleMovementComponent fron the ChaosVehiclePhysics Plugin. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Misc/VRWheeledVehicle.h(140): warning C4996: 'UWheeledVehicleMovementComponent::SetOverrideController': PhysX is deprecated. Use the UChaosWheeledVehicleMovementComponent fron the ChaosVehiclePhysics Plugin. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(546): warning C4996: 'UWheeledVehicleMovementComponent': PhysX is deprecated. Use the UChaosWheeledVehicleMovementComponent fron the ChaosVehiclePhysics Plugin. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(143): note: 查看对正在编译的函数 模板 实例化“bool UObjectBaseUtility::IsA<To>(void) const”的引用
+        with
+        [
+            To=UWheeledVehicleMovementComponent
+        ]
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(142): note: 在编译 类 模板 成员函数“To *TCastImpl<From,To,ECastType::UObjectToUObject>::DoCast(UObject *)”时
+        with
+        [
+            To=UWheeledVehicleMovementComponent,
+            From=UPawnMovementComponent
+        ]
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(219): note: 查看对正在编译的函数 模板 实例化“To *TCastImpl<From,To,ECastType::UObjectToUObject>::DoCast(UObject *)”的引用
+        with
+        [
+            To=UWheeledVehicleMovementComponent,
+            From=UPawnMovementComponent
+        ]
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(219): note: 查看对正在编译的 类 模板 实例化“TCastImpl<From,To,ECastType::UObjectToUObject>”的引用
+        with
+        [
+            From=UPawnMovementComponent,
+            To=UWheeledVehicleMovementComponent
+        ]
+D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Misc/VRWheeledVehicle.h(138): note: 查看对正在编译的函数 模板 实例化“To *Cast<UWheeledVehicleMovementComponent,UPawnMovementComponent>(From *)”的引用
+        with
+        [
+            To=UWheeledVehicleMovementComponent,
+            From=UPawnMovementComponent
+        ]
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(546): warning C4996: 'UWheeledVehicleMovementComponent::StaticClass': PhysX is deprecated. Use the UChaosWheeledVehicleMovementComponent fron the ChaosVehiclePhysics Plugin. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+Module.VRExpansionPlugin.3_of_4.cpp
+UE4Editor-VRExpansionPlugin.lib (0:00.35 at +2:06)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.exp
+UE4Editor-VRExpansionPlugin.dll (0:01.60 at +2:06)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.suppressed.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.suppressed.exp
+Module.OpenXRExpansionEditor.cpp
+Module.OpenXRExpansionEditor.gen.cpp
+UE4Editor-OpenXRExpansionEditor.lib (0:01.04 at +4:57)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\UE4Editor-OpenXRExpansionEditor.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\UE4Editor-OpenXRExpansionEditor.exp
+TacticalVRTemplate.init.gen.cpp
+UE4Editor-TacticalVRTemplate.lib (0:00.14 at +5:13)
+  正在创建库 D:\TacticalVRCoreExample-main\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRTemplate\UE4Editor-TacticalVRTemplate.lib 和对象 D:\TacticalVRCoreExample-main\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRTemplate\UE4Editor-TacticalVRTemplate.exp
+UE4Editor-TacticalVRTemplate.dll (0:00.53 at +5:13)
+  正在创建库 D:\TacticalVRCoreExample-main\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRTemplate\UE4Editor-TacticalVRTemplate.suppressed.lib 和对象 D:\TacticalVRCoreExample-main\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRTemplate\UE4Editor-TacticalVRTemplate.suppressed.exp
+Module.OpenXRExpansionPlugin.cpp
+UE4Editor-OpenXRExpansionPlugin.lib (0:00.18 at +5:18)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\UE4Editor-OpenXRExpansionPlugin.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\UE4Editor-OpenXRExpansionPlugin.exp
+UE4Editor-OpenXRExpansionPlugin.dll (0:00.57 at +5:18)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\UE4Editor-OpenXRExpansionPlugin.suppressed.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\UE4Editor-OpenXRExpansionPlugin.suppressed.exp
+UE4Editor-OpenXRExpansionEditor.dll (0:00.40 at +5:19)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\UE4Editor-OpenXRExpansionEditor.suppressed.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\UE4Editor-OpenXRExpansionEditor.suppressed.exp
+Module.VRExpansionEditor.cpp
+UE4Editor-VRExpansionEditor.lib (0:00.12 at +5:32)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\UE4Editor-VRExpansionEditor.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\UE4Editor-VRExpansionEditor.exp
+UE4Editor-VRExpansionEditor.dll (0:00.54 at +5:32)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\UE4Editor-VRExpansionEditor.suppressed.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\VRExpansion\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\UE4Editor-VRExpansionEditor.suppressed.exp
+Module.TacticalVRCore.gen.3_of_5.cpp
+Module.TacticalVRCore.gen.5_of_5.cpp
+Module.TacticalVRCore.gen.4_of_5.cpp
+Module.TacticalVRCore.gen.2_of_5.cpp
+Module.TacticalVRCore.gen.1_of_5.cpp
+Module.TacticalVRCoreEditor.cpp
+UE4Editor-TacticalVRCoreEditor.lib (0:00.18 at +5:49)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\TacticalVRCore\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRCoreEditor\UE4Editor-TacticalVRCoreEditor.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\TacticalVRCore\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRCoreEditor\UE4Editor-TacticalVRCoreEditor.exp
+Module.TacticalVRCore.cpp
+UE4Editor-TacticalVRCore.lib (0:00.29 at +5:51)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\TacticalVRCore\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRCore\UE4Editor-TacticalVRCore.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\TacticalVRCore\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRCore\UE4Editor-TacticalVRCore.exp
+UE4Editor-TacticalVRCore.dll (0:00.71 at +5:51)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\TacticalVRCore\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRCore\UE4Editor-TacticalVRCore.suppressed.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\TacticalVRCore\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRCore\UE4Editor-TacticalVRCore.suppressed.exp
+UE4Editor-TacticalVRCoreEditor.dll (0:00.60 at +5:51)
+  正在创建库 D:\TacticalVRCoreExample-main\Plugins\TacticalVRCore\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRCoreEditor\UE4Editor-TacticalVRCoreEditor.suppressed.lib 和对象 D:\TacticalVRCoreExample-main\Plugins\TacticalVRCore\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRCoreEditor\UE4Editor-TacticalVRCoreEditor.suppressed.exp
+TacticalVRTemplateEditor.target (0:00.18 at +5:52)
+---------------------- Done ----------------------
+
+    Rebuild All: 1 succeeded, 0 failed, 0 skipped
+
+Total time in XGE executor: 352.94 seconds
+Total execution time: 358.31 seconds
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+MLSDK not found.  This likely means the MLSDK environment variable is not set.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+OSS: Creating online subsystem instance for: NULL
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Build: ++UE4+Release-4.27-CL-18319896
+Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+Net CL: 17155196
+OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i9-12900K, GPU: NVIDIA GeForce RTX 3080
+Compiled (64-bit): Nov 30 2021 07:12:08
+Compiled with Visual C++: 19.24.28315.00
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.27
+Command Line: 
+Base Directory: E:/UE_4.27/Engine/Binaries/Win64/
+Allocator: TBB
+Installed Engine Build: 1
+Number of dev versions registered: 29
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Object subsystem initialized
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[r.VSync:0]]
+Setting CVar [[r.RHICmdBypass:0]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Engine.ini]
+Setting CVar [[r.GPUCrashDebugging:0]]
+Setting CVar [[r.Mobile.DisableVertexFog:1]]
+Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+Setting CVar [[r.MobileMSAA:4]]
+Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+Setting CVar [[r.Mobile.VirtualTextures:0]]
+Setting CVar [[r.DiscardUnusedQuality:0]]
+Setting CVar [[r.AllowOcclusionQueries:1]]
+Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+Setting CVar [[r.TextureStreaming:1]]
+Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+Setting CVar [[r.VirtualTextures:0]]
+Setting CVar [[r.VirtualTexturedLightmaps:0]]
+Setting CVar [[r.VT.TileSize:128]]
+Setting CVar [[r.VT.TileBorderSize:4]]
+Setting CVar [[r.vt.FeedbackFactor:16]]
+Setting CVar [[r.VT.EnableCompressZlib:1]]
+Setting CVar [[r.VT.EnableCompressCrunch:0]]
+Setting CVar [[r.ClearCoatNormal:0]]
+Setting CVar [[r.ReflectionCaptureResolution:128]]
+Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+Setting CVar [[r.ForwardShading:1]]
+Setting CVar [[r.VertexFoggingForOpaque:1]]
+Setting CVar [[r.AllowStaticLighting:1]]
+Setting CVar [[r.NormalMapsForStaticLighting:0]]
+Setting CVar [[r.GenerateMeshDistanceFields:0]]
+Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+Setting CVar [[r.GenerateLandscapeGIData:0]]
+Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+Setting CVar [[r.SeparateTranslucency:0]]
+Setting CVar [[r.TranslucentSortPolicy:0]]
+Setting CVar [[r.CustomDepth:1]]
+Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+Setting CVar [[r.DefaultFeature.Bloom:0]]
+Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+Setting CVar [[r.UsePreExposure:1]]
+Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+Setting CVar [[r.DefaultFeature.LensFlare:0]]
+Setting CVar [[r.TemporalAA.Upsampling:0]]
+Setting CVar [[r.SSGI.Enable:0]]
+Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+Setting CVar [[r.DefaultFeature.LightUnits:1]]
+Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+Setting CVar [[r.StencilForLODDither:0]]
+Setting CVar [[r.EarlyZPass:3]]
+Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+Setting CVar [[r.DBuffer:1]]
+Setting CVar [[r.ClearSceneMethod:1]]
+Setting CVar [[r.BasePassOutputsVelocity:0]]
+Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+Setting CVar [[r.SelectiveBasePassOutputs:0]]
+Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+Setting CVar [[r.AllowGlobalClipPlane:0]]
+Setting CVar [[r.GBufferFormat:1]]
+Setting CVar [[r.MorphTarget.Mode:1]]
+Setting CVar [[vr.InstancedStereo:1]]
+Setting CVar [[r.MobileHDR:0]]
+Setting CVar [[vr.MobileMultiView:1]]
+Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
+Setting CVar [[vr.RoundRobinOcclusion:0]]
+Setting CVar [[vr.ODSCapture:0]]
+Setting CVar [[r.MeshStreaming:0]]
+Setting CVar [[r.WireframeCullThreshold:5.000000]]
+Setting CVar [[r.RayTracing:0]]
+Setting CVar [[r.RayTracing.UseTextureLod:0]]
+Setting CVar [[r.SupportStationarySkylight:1]]
+Setting CVar [[r.SupportLowQualityLightmaps:1]]
+Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+Setting CVar [[r.SupportAtmosphericFog:1]]
+Setting CVar [[r.SupportSkyAtmosphere:1]]
+Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+Setting CVar [[r.SkinCache.CompileShaders:0]]
+Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+Setting CVar [[r.MobileNumDynamicPointLights:4]]
+Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+Setting CVar [[r.SupportReversedIndexBuffers:1]]
+Setting CVar [[r.LightPropagationVolume:0]]
+Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+Setting CVar [[r.Mobile.SupportGPUScene:1]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Engine.ini]
+Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+Setting CVar [[gc.FlushStreamingOnGC:0]]
+Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Setting CVar [[gc.AllowParallelGC:1]]
+Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Setting CVar [[gc.CreateGCClusters:1]]
+Setting CVar [[gc.MinGCClusterSize:5]]
+Setting CVar [[gc.ActorClusteringEnabled:0]]
+Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 64 GB [68390268928 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+Applying CVar settings from Section [ConsoleVariables] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ConsoleVariables] File [D:/TacticalVRCoreExample-main/Saved/Config/Windows/Editor.ini]
+Computer: G22114LH-NAG
+User: Admin
+CPU Page size=4096, Cores=16
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=63.7GB (64GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 155.67 MB used, 155.67 MB peak
+Process Virtual Memory: 126.85 MB used, 126.85 MB peak
+Physical Memory: 23381.78 MB used,  41840.26 MB free, 65222.04 MB total
+Virtual Memory: 134194032.00 MB used,  23694.53 MB free, 134217728.00 MB total
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: PhysX
+Overriding language with editor language configuration option (en).
+Using OS detected locale (zh-CN).
+Setting process to per monitor DPI aware
+IME system deactivated.
+New Slate User Created.  User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+Loaded GFSDK_Aftermath_Lib.x64.dll
+Optional extension XR_VARJO_quad_views is not available
+Required extension XR_EXT_eye_gaze_interaction is not available
+Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+Required extension XR_EXT_hp_mixed_reality_controller is not available
+Could not enable all required OpenXR extensions for HP Motion Controller on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+D3D11 min allowed feature level: 11_0
+D3D11 max allowed feature level: 11_0
+D3D11 adapters:
+   0. 'NVIDIA GeForce RTX 3080' (Feature Level 11_0)
+      10067/0/32611 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+   1. 'Intel(R) UHD Graphics 770' (Feature Level 11_0)
+      128/0/32611 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+   2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+      0/0/32611 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+Chosen D3D11 Adapter:
+    Description : NVIDIA GeForce RTX 3080
+    VendorId    : 10de
+    DeviceId    : 2216
+    SubSysId    : 8771103c
+    Revision    : 00a1
+    DedicatedVideoMemory : 10556014592 bytes
+    DedicatedSystemMemory : 0 bytes
+    SharedSystemMemory : 34195134464 bytes
+    AdapterLuid : 0 141265
+Creating new Direct3DDevice
+    GPU DeviceId: 0x2216 (for the marketing name, search the web for "GPU Device Id")
+EnumDisplayDevices:
+   0. 'NVIDIA GeForce RTX 3080' (P:1 D:1)
+   1. 'NVIDIA GeForce RTX 3080' (P:0 D:1)
+   2. 'NVIDIA GeForce RTX 3080' (P:0 D:0)
+   3. 'NVIDIA GeForce RTX 3080' (P:0 D:0)
+   4. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+   5. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+   6. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+   7. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+    Adapter Name: NVIDIA GeForce RTX 3080
+  Driver Version: 531.41 (internal:31.0.15.3141, unified:531.41)
+     Driver Date: 3-16-2023
+Texture pool is 7046 MB (70% of 10067 MB)
+Creating D3DDevice using adapter:
+    Description : NVIDIA GeForce RTX 3080
+    VendorId    : 10de
+    DeviceId    : 2216
+    SubSysId    : 8771103c
+    Revision    : 00a1
+    DedicatedVideoMemory : 10556014592 bytes
+    DedicatedSystemMemory : 0 bytes
+    SharedSystemMemory : 34195134464 bytes
+    AdapterLuid : 0 141265
+RHI has support for 64 bit atomics
+Async texture creation enabled
+Array index from any shader is supported
+GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+GeForceNow SDK initialized: 1
+Loaded TargetPlatform 'AllDesktop'
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxNoEditor'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxAArch64NoEditor'
+Loaded TargetPlatform 'LinuxAArch64Client'
+Loaded TargetPlatform 'LinuxAArch64Server'
+Loaded TargetPlatform 'Lumin'
+Loaded TargetPlatform 'LuminClient'
+Loaded TargetPlatform 'MacNoEditor'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'WindowsNoEditor'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsClient'
+Loaded TargetPlatform 'WindowsServer'
+Building Assets For Windows
+Lib vorbis DLL was dynamically loaded.
+Oodle Texture 2.9.0 init RDO Off
+Ray tracing is disabled. Reason: r.RayTracing=0.
+Guid format shader working directory is 16 characters bigger than the processId version (D:/TacticalVRCoreExample-main/Intermediate/Shaders/WorkingDirectory/31416/).
+Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/01FA336746D8E31CA81C29BCC3EA9930/'.
+Using XGE Controller for Shader Compilation.
+Max Cache Size: 512 MB
+Loaded boot cache 0.04s 98MB C:/Users/Admin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/Admin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file D:/TacticalVRCoreExample-main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file D:/TacticalVRCoreExample-main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+Speed tests for C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+Performance to C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=2726.36MBs, RandomWriteSpeed=40.07MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+Using FreeType 2.10.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+FAssetRegistry took 0.0021 seconds to start up
+Selected Device Profile: [Windows]
+Active device profile: [0000027C43532C00][0000027C42EE9480 49] Windows
+Profiles: [0000027C43532C00][0000027C42EE9480 49] Windows, [0000027C434DA200][0000027C42EF1600 49] WindowsNoEditor, [0000027C43531F00][0000027C42EF5780 49] WindowsServer, [0000027C434DAE00][0000027C42EF9900 49] WindowsClient, [0000027C43531300][0000027C42EFDA80 49] IOS, [0000027C434DA300][0000027C42F01C00 49] iPadAir, [0000027C43532400][0000027C42F04200 49] iPadAir2, [0000027C43471E00][0000027C42F0C4C0 49] IPadPro, [0000027C43471F00][0000027C42F08500 49] iPadAir3, [0000027C434DB500][0000027C42F10680 49] iPadAir4, [0000027C43472E00][0000027C42F14800 49] iPadMini2, [0000027C434DAD00][0000027C42EEC940 49] iPadMini3, [0000027C43473A00][0000027C42F18A80 49] iPadMini4, [0000027C434D9E00][0000027C42F1CBC0 49] iPadMini5, [0000027C4347D400][0000027C42F28E40 49] iPhone6, [0000027C4347D500][0000027C42F20E80 49] iPodTouch6, [0000027C43533200][0000027C43F41140 49] iPhone7, [0000027C43532B00][0000027C42F2D180 49] iPodTouch7, [0000027C43473E00][0000027C43F45300 49] iPhone5S, [0000027C43532800][0000027C43F49480 49] iPhone6Plus, [0000027C43473000][0000027C43F4D600 49] iPhone6S, [0000027C43532100][0000027C43F63780 49] iPhone6SPlus, [0000027C43471500][0000027C43F93900 49] iPhone7Plus, [0000027C43530700][0000027C43F97A80 49] iPhoneSE, [0000027C43470700][0000027C43F9BC00 49] iPhone8, [0000027C4347C200][0000027C43FA6200 49] iPhone8Plus, [0000027C43530D00][0000027C43FDA380 49] iPhoneX, [0000027C4347C700][0000027C43FDE500 49] iPhoneXS, [0000027C43532900][0000027C43FE2680 49] iPhoneXSMax, [0000027C4347CA00][0000027C4400E800 49] iPhoneXR, [0000027C43530200][0000027C44012980 49] iPhone11, [0000027C43470900][0000027C44016B00 49] iPhone11Pro, [0000027C4347D900][0000027C42F24C40 49] iPhone11ProMax, [0000027C43473D00][0000027C4401AD80 49] iPhoneSE2, [0000027C4347E600][0000027C4401EEC0 49] iPhone12Mini, [0000027C43472800][0000027C44027040 49] iPhone12, [0000027C4347E200][0000027C4402B1C0 49] iPhone12Pro, [0000027C43472300][0000027C4402F340 49] iPhone12ProMax, [0000027C4347EB00][0000027C440334C0 49] iPadPro105, [0000027C43472F00][0000027C44037640 49] iPadPro129, [0000027C43532300][0000027C4403B7C0 49] iPadPro97, [0000027C43471B00][0000027C4403F940 49] iPadPro2_129, [0000027C43531000][0000027C44043AC0 49] iPad5, [0000027C43472D00][0000027C440460C0 49] iPad6, [0000027C43531700][0000027C4404A240 49] iPad7, [0000027C43473B00][0000027C4404E3C0 49] iPad8, [0000027C43531900][0000027C44052540 49] iPadPro11, [0000027C43471900][0000027C440566C0 49] iPadPro2_11, [0000027C43532000][0000027C4405A840 49] iPadPro3_129, [0000027C43470F00][0000027C4405E9C0 49] iPadPro4_129, [0000027C43531B00][0000027C44062B40 49] AppleTV, [0000027C43473600][0000027C44066CC0 49] AppleTV4K, [0000027C43531C00][0000027C44022E00 49] TVOS, [0000027C43473F00][0000027C4406AF40 49] Mac, [0000027C43533C00][0000027C4406F080 49] MacClient, [0000027C43472200][0000027C440731C0 49] MacNoEditor, [0000027C43533000][0000027C4407B340 49] MacServer, [0000027C43473200][0000027C4407F4C0 49] Linux, [0000027C43530B00][0000027C44083640 49] LinuxAArch64, [0000027C43472600][0000027C440877C0 49] LinuxNoEditor, [0000027C43530F00][0000027C4408B940 49] LinuxAArch64NoEditor, [0000027C43472400][0000027C4408FAC0 49] LinuxClient, [0000027C43531100][0000027C440920C0 49] LinuxAArch64Client, [0000027C43471D00][0000027C44096240 49] LinuxServer, [0000027C43532A00][0000027C4409A3C0 49] LinuxAArch64Server, [0000027C43470300][0000027C4409E540 49] Android, [0000027C43532200][0000027C440A26C0 49] Android_Low, [0000027C43470400][0000027C440A6840 49] Android_Mid, [0000027C43533300][0000027C440AA9C0 49] Android_High, [0000027C43472700][0000027C440AEB40 49] Android_Default, [0000027C43530800][0000027C440B2CC0 49] Android_Adreno4xx, [0000027C43471400][0000027C440B6E40 49] Android_Adreno5xx_Low, [0000027C43530E00][0000027C44076F80 49] Android_Adreno5xx, [0000027C43470E00][0000027C440BB0C0 49] Android_Adreno6xx, [0000027C43530600][0000027C440BF200 49] Android_Adreno6xx_Vulkan, [0000027C43470C00][0000027C440C3340 49] Android_Mali_T6xx, [0000027C43530A00][0000027C440DF4C0 49] Android_Mali_T7xx, [0000027C43473C00][0000027C440FD640 49] Android_Mali_T8xx, [0000027C43530300][0000027C441017C0 49] Android_Mali_G71, [0000027C43471C00][0000027C44105940 49] Android_Mali_G72, [0000027C43533A00][0000027C44109AC0 49] Android_Mali_G72_Vulkan, [0000027C43472C00][0000027C4410C0C0 49] Android_Mali_G76, [0000027C43532500][0000027C44110240 49] Android_Mali_G76_Vulkan, [0000027C434DB100][0000027C441143C0 49] Android_Mali_G77, [0000027C4347D300][0000027C44118540 49] Android_Mali_G77_Vulkan, [0000027C434DBA00][0000027C4411C6C0 49] Android_Mali_G78, [0000027C4347EF00][0000027C44120840 49] Android_Mali_G78_Vulkan, [0000027C434D8300][0000027C441249C0 49] Android_Mali_G710, [0000027C4347FC00][0000027C44128B40 49] Android_Mali_G710_Vulkan, [0000027C434D9200][0000027C4412CCC0 49] Android_Vulkan_SM5, [0000027C4347C300][0000027C44130E40 49] Android_PowerVR_G6xxx, [0000027C434DBF00][0000027C44134FC0 49] Android_PowerVR_GT7xxx, [0000027C4347EC00][0000027C44139140 49] Android_PowerVR_GE8xxx, [0000027C434DAA00][0000027C440DB280 49] Android_PowerVR_GM9xxx, [0000027C4347C500][0000027C4413D3C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000027C434D9600][0000027C44141500 49] Android_TegraK1, [0000027C4347D700][0000027C44149680 49] Android_Unknown_Vulkan, [0000027C434D8800][0000027C4414D800 49] Lumin, [0000027C4347D100][0000027C44151980 49] Lumin_Desktop, [0000027C434DA400][0000027C44155B00 49] HoloLens, 
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A1735345BAA6C16A461C99B571E815C1D167A3DB), compiling. Is special engine material.
+Submitted 1144 shader compile jobs with 'High' priority
+Worker (1/21): shaders left to compile 1144
+Worker (2/21): shaders left to compile 1134
+Worker (3/21): shaders left to compile 1124
+Worker (4/21): shaders left to compile 1114
+Worker (5/21): shaders left to compile 1104
+Worker (6/21): shaders left to compile 1094
+Worker (7/21): shaders left to compile 1084
+Worker (8/21): shaders left to compile 1074
+Worker (9/21): shaders left to compile 1064
+Worker (10/21): shaders left to compile 1054
+Worker (11/21): shaders left to compile 1044
+Worker (12/21): shaders left to compile 1034
+Worker (13/21): shaders left to compile 1024
+Worker (14/21): shaders left to compile 1014
+Worker (15/21): shaders left to compile 1004
+Worker (16/21): shaders left to compile 994
+Worker (17/21): shaders left to compile 984
+Worker (18/21): shaders left to compile 974
+Worker (19/21): shaders left to compile 964
+Worker (20/21): shaders left to compile 954
+Worker (21/21): shaders left to compile 944
+Started 210 'Local' shader compile jobs with 'High' priority
+Started 934 'XGE' shader compile jobs with 'High' priority
+Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4F7FB22FDFA905DB080035F79C5E8112911BE216), compiling. 
+Submitted 143 shader compile jobs with 'High' priority
+Started 143 'XGE' shader compile jobs with 'High' priority
+Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D07CE4633CD5915EA4656735140657FFB3ADA178), compiling. 
+Submitted 27 shader compile jobs with 'High' priority
+Started 27 'XGE' shader compile jobs with 'High' priority
+Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DD870A9D2FC39DA4A0688AE54A7F7BDD08814E4C), compiling. 
+Submitted 22 shader compile jobs with 'High' priority
+Started 22 'XGE' shader compile jobs with 'High' priority
+Missing cached shadermap for MatineeCam_mat in PCD3D_SM5, Default, SM5 (DDC key hash: AE75E6B118CBA0233317142FDCD575515441756C), compiling. 
+Submitted 16 shader compile jobs with 'Low' priority
+TacticalVRTemplate 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1967448936)
+Started 16 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for HelpActorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: EA3A819B239510E9859B6A8CF5EC461696C744A6), compiling. 
+Submitted 78 shader compile jobs with 'Low' priority
+Started 78 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for M_ChromeBall in PCD3D_SM5, Default, SM5 (DDC key hash: 0D0F6B91D4F9108892241DC5F987E072BCA61A81), compiling. 
+Submitted 41 shader compile jobs with 'Low' priority
+Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: 85D86C2EB44E01BD69A7F15AC38A63E90E3ED199), compiling. 
+Started 41 'XGE' shader compile jobs with 'Low' priority
+Submitted 38 shader compile jobs with 'Low' priority
+Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM5, Default, SM5 (DDC key hash: D02685ACF9EB8597FCC50F7506AE88A2C8932288), compiling. 
+Started 38 'XGE' shader compile jobs with 'Low' priority
+Submitted 58 shader compile jobs with 'Low' priority
+Missing cached shadermap for BaseFlattenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DE06811B687853861FA81805293F97C1A6FA2AA0), compiling. 
+Started 58 'XGE' shader compile jobs with 'Low' priority
+Submitted 58 shader compile jobs with 'Low' priority
+Started 58 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for Xray in PCD3D_SM5, Default, SM5 (DDC key hash: ACDB8406E2DF9C26BD42323B3B3473C2D5DB2AB4), compiling. 
+Submitted 16 shader compile jobs with 'Low' priority
+Missing cached shadermap for Main in PCD3D_SM5, Default, SM5 (DDC key hash: 3FA8AA1B8BE5AE9CBB4ED9A8C15A0FE07C77F55E), compiling. 
+Started 16 'XGE' shader compile jobs with 'Low' priority
+Submitted 12 shader compile jobs with 'Low' priority
+Started 12 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for Widget3DCameraPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 1C929DCA95919C51E2597469C8E39EF190A7CC3E), compiling. 
+Submitted 6 shader compile jobs with 'Low' priority
+Started 6 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: EADC0968F181193B78B48250944F4F6B93C77E78), compiling. 
+Submitted 12 shader compile jobs with 'Low' priority
+Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2FBC30865D23FBA965BF54CC52858DC16466FAE3), compiling. 
+Submitted 6 shader compile jobs with 'Low' priority
+Started 18 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for CineMat in PCD3D_SM5, Default, SM5 (DDC key hash: AA822DEF217C3D4B83ADD66D895610C7FA2A12B5), compiling. 
+Submitted 32 shader compile jobs with 'Low' priority
+Started 32 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for M_SimpleOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: 8E5EEC584D2427A253244E8D93E6B8F3C4F966AC), compiling. 
+Submitted 16 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM5, Default, SM5 (DDC key hash: 6D5C392661FD656595BD77B9B0B2A03ED9D3C0DE), compiling. 
+Started 16 'XGE' shader compile jobs with 'Low' priority
+Submitted 12 shader compile jobs with 'Low' priority
+Started 12 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for SkySphereMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1238B2A915DB03D4841D09C4D0C0CCE68D44B1A9), compiling. 
+Submitted 6 shader compile jobs with 'Low' priority
+Started 6 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for FloorPlaneMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C8654C974970574F3B3246801FAFAB484C27F922), compiling. 
+Submitted 25 shader compile jobs with 'Low' priority
+Started 25 'XGE' shader compile jobs with 'Low' priority
+Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+Missing cached shadermap for LandscapeGizmo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 609C070414A09C63F6C3B3059F6FA6781C522F5E), compiling. 
+Submitted 26 shader compile jobs with 'Low' priority
+Missing cached shadermap for LandscapeGizmoHeight_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D0EA4E344D29FCC94C7F185E2B345D7B2E6D5A3B), compiling. 
+Started 26 'XGE' shader compile jobs with 'Low' priority
+Submitted 55 shader compile jobs with 'Low' priority
+Missing cached shadermap for SplineEditorMeshMat in PCD3D_SM5, Default, SM5 (DDC key hash: DECE4B1AD2200DCA91D3DAB0B51A79483420FAD8), compiling. 
+Started 55 'XGE' shader compile jobs with 'Low' priority
+Submitted 22 shader compile jobs with 'Low' priority
+17045 objects as part of root set at end of initial load.
+4268416 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Started 22 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for BaseColor in PCD3D_SM5, Default, SM5 (DDC key hash: 352505B46FFD18D8CF6B6F6DF14D20405E6444C2), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for CustomDepth in PCD3D_SM5, Default, SM5 (DDC key hash: D4594367A5C2205B74609AC651559951F77FA25D), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Started 16 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for CustomStencil in PCD3D_SM5, Default, SM5 (DDC key hash: 551FF454F6D9E26743C2A46915FCE44C1F1F33F5), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for FinalImage in PCD3D_SM5, Default, SM5 (DDC key hash: CA1414BB0CCEE36781628D01AD2A6C0AD4F0DC7B), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for LightingModel in PCD3D_SM5, Default, SM5 (DDC key hash: BC18C5CF2C416047BDC6171425396F75480B72CF), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Started 24 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for MaterialAO in PCD3D_SM5, Default, SM5 (DDC key hash: 4A8381A713452C8DF5C254C2BDE70CE466085A28), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for Metallic in PCD3D_SM5, Default, SM5 (DDC key hash: 638AB632FD2DEB77003298EDB2B32A6FE6C2353F), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for Opacity in PCD3D_SM5, Default, SM5 (DDC key hash: CEDCA40AC399B3060160AC7AE7B0E8E6E14744CB), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for Roughness in PCD3D_SM5, Default, SM5 (DDC key hash: AE941FE7C12292375CE6BA283D51E99C04EB9D28), compiling. 
+Started 24 'XGE' shader compile jobs with 'Low' priority
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for Anisotropy in PCD3D_SM5, Default, SM5 (DDC key hash: 983A72082452A8B4CC3FF860A2084546FA5C86A1), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for SceneColor in PCD3D_SM5, Default, SM5 (DDC key hash: 57A5D375579F5AA38A6FF5CA3CF73DDBAB244AA6), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for SceneDepth in PCD3D_SM5, Default, SM5 (DDC key hash: 828878413FE64D62DE4220537FBE29526CEDEC91), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for SeparateTranslucencyRGB in PCD3D_SM5, Default, SM5 (DDC key hash: 4555CAE0B54CB54E5015540F6A2F68A920496A83), compiling. 
+Started 32 'XGE' shader compile jobs with 'Low' priority
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for SeparateTranslucencyA in PCD3D_SM5, Default, SM5 (DDC key hash: A9438BF519141CC245531F22B74BD14B8B6C9F8F), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for Specular in PCD3D_SM5, Default, SM5 (DDC key hash: 9048D446F51018A8B9E818D25FB526DFF3915010), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for SubsurfaceColor in PCD3D_SM5, Default, SM5 (DDC key hash: 1B88926E4CF72792293F36ED9D828D248C4831B6), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for WorldNormal in PCD3D_SM5, Default, SM5 (DDC key hash: 599176854EF0146FD4FCC92BD47D1286B356A5E2), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for WorldTangent in PCD3D_SM5, Default, SM5 (DDC key hash: 743099C8FF4C59DE98868CEDEC3F8DF5B328D8BE), compiling. 
+Started 40 'XGE' shader compile jobs with 'Low' priority
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for AmbientOcclusion in PCD3D_SM5, Default, SM5 (DDC key hash: 72015554CF1D52317C31E23D3FBA53B317CCE692), compiling. 
+Submitted 14 shader compile jobs with 'Low' priority
+Missing cached shadermap for CustomDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: 162ED1B6894686D2AEDC930463AACA4E4E5C2F1D), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for SceneDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: 66F12C48987773481FCA718FF8E8BDD96602284B), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for Velocity in PCD3D_SM5, Default, SM5 (DDC key hash: 3CA63BD51E19095555295D81A1790B131F9DE682), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for PreTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: AF933B105906D5E3F2F070A38A4D7165D2512109), compiling. 
+Started 46 'XGE' shader compile jobs with 'Low' priority
+Submitted 8 shader compile jobs with 'Low' priority
+Missing cached shadermap for PostTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: 8598179A541087E8CF52193F6DD81EDB40FF6566), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Started 16 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8C4B3BC103024E4EEAF59EA26FA18F630CBB8C4A), compiling. 
+Submitted 187 shader compile jobs with 'Low' priority
+Started 187 'XGE' shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Emissive_Color in PCD3D_SM5, Default, SM5 (DDC key hash: 9747FCF6593F5C84CDAEFF4F9B87A33E4225447F), compiling. 
+Submitted 6 shader compile jobs with 'Low' priority
+Missing cached shadermap for VertexColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 40B2FD75BDA9AF516FFBE87BFC2DD49624D844B7), compiling. 
+Submitted 105 shader compile jobs with 'Low' priority
+Missing cached shadermap for WireframeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 43B67FE158ACB06D529C59B813D8EBDC5EB7ED30), compiling. Is special engine material.
+Started 111 'XGE' shader compile jobs with 'Low' priority
+Submitted 727 shader compile jobs with 'Low' priority
+Started 727 'XGE' shader compile jobs with 'Low' priority
+Using Python 3.7.7
+Niagara Debugger Client Initialized | Session: C19035ED41CD0338FB370C9282B502C5 | Instance: F7B5DAF14BB47A925B11B4ADBB1D30CC (G22114LH-NAG-31416).
+Initializing TcpMessaging bridge
+Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Found projects:
+Source control is disabled
+Missing cached shadermap for M_VolumeRenderSphereTracePP in PCD3D_SM5, Default, SM5 (DDC key hash: B7CFAFAECAA06D1C286AD06CCD3B173739BB5337), compiling. 
+Submitted 8 shader compile jobs with 'Low' priority
+Started 8 'XGE' shader compile jobs with 'Low' priority
+OIDN starting up
+UAndroidPermissionCallbackProxy::GetInstance
+No Audio Capture implementations found. Audio input will be silent.
+No Audio Capture implementations found. Audio input will be silent.
+Loaded 0 collections in 0.000721 seconds
+Scanning file cache for directory 'D:/TacticalVRCoreExample-main/Saved/Collections/' took 0.00s
+Scanning file cache for directory 'D:/TacticalVRCoreExample-main/Content/Developers/Admin/Collections/' took 0.00s
+Scanning file cache for directory 'D:/TacticalVRCoreExample-main/Content/Collections/' took 0.00s
+UGameplayTagsManager::InitializeManager -  0.001 s
+
+
+Script Stack (0 frames):
+
+FPlatformStackWalk::StackWalkAndDump -  0.056 s
+=== Handled ensure: ===
+
+Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/GameplayTags/Private/GameplayTagsManager.cpp] [Line: 1768]
+Requested Gameplay Tag GripType.Large was not found, tags must be loaded from config or registered as a native tag
+Stack: 
+[Callstack] 0x00007ffd1c94bc0b UE4Editor-GameplayTags.dll!UnknownFunction []
+[Callstack] 0x00007ffd1c92c78d UE4Editor-GameplayTags.dll!UnknownFunction []
+[Callstack] 0x00007ffd1c92c34b UE4Editor-GameplayTags.dll!UnknownFunction []
+[Callstack] 0x00007ffc78f7cfad UE4Editor-TacticalVRCore.dll!UTVRClimbableCapsuleComponent::UTVRClimbableCapsuleComponent() [D:\TacticalVRCoreExample-main\Plugins\TacticalVRCore\Source\TacticalVRCore\Private\Components\TVRClimbableCapsuleComponent.cpp:15]
+[Callstack] 0x00007ffc9ea961d3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffc9edb8faf UE4Editor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffc9ed95411 UE4Editor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffc9ec5ddc5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffc9f471bea UE4Editor-Core.dll!UnknownFunction []
+[Callstack] 0x00007ffc9f4915a3 UE4Editor-Core.dll!UnknownFunction []
+[Callstack] 0x00007ffd1e656433 UE4Editor-Projects.dll!UnknownFunction []
+[Callstack] 0x00007ffd1e66caba UE4Editor-Projects.dll!UnknownFunction []
+[Callstack] 0x00007ffd1e6561b0 UE4Editor-Projects.dll!UnknownFunction []
+[Callstack] 0x00007ff6bf99565b UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff6bf999000 UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff6bf990d2c UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff6bf9910ba UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff6bf9940dd UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff6bf9a5984 UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff6bf9a853a UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ffdd72626ad KERNEL32.DLL!UnknownFunction []
+[Callstack] 0x00007ffdd882aa68 ntdll.dll!UnknownFunction []
+
+               SubmitErrorReport -  0.000 s

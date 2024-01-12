@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TacticalVRCoreEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\TacticalVRCoreExample-main\Intermediate\Build\Win64\TacticalVRTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\TacticalVRCoreExample-main\Plugins\TacticalVRCore\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRCoreEditor\Module.TacticalVRCoreEditor.cpp.obj"
+"D:\TacticalVRCoreExample-main\Plugins\TacticalVRCore\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRCoreEditor\Default.rc2.res"
+/OUT:"D:\TacticalVRCoreExample-main\Plugins\TacticalVRCore\Intermediate\Build\Win64\UE4Editor\Development\TacticalVRCoreEditor\UE4Editor-TacticalVRCoreEditor.lib"

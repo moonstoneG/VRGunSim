@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OpenXRExpansionPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\TacticalVRCoreExample-main\Intermediate\Build\Win64\TacticalVRTemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp.obj"
+"D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.gen.cpp.obj"
+"D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Default.rc2.res"
+/OUT:"D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\UE4Editor-OpenXRExpansionPlugin.lib"

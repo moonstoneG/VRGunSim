@@ -1,0 +1,38 @@
+D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h
+D:/TacticalVRCoreExample-main/Plugins/VRExpansion/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/OpenVRExpansionFunctionLibrary.gen.cpp
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/OpenVRExpansionFunctionLibrary.h
+E:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+E:\UE_4.27\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\headers\openvr.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\string
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\iosfwd
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\isa_availability.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cctype
+E:\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
+E:\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
+E:\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\KismetProceduralMeshLibrary.h
+E:\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\KismetProceduralMeshLibrary.generated.h
+E:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+E:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+E:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+E:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+E:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+E:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
+D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\OpenVRExpansionFunctionLibrary.generated.h
+D:/TacticalVRCoreExample-main/Plugins/VRExpansion/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/OpenVRExpansionPlugin.init.gen.cpp
+D:/TacticalVRCoreExample-main/Plugins/VRExpansion/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/SteamVRKeyboardComponent.gen.cpp
+D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/SteamVRKeyboardComponent.h
+E:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+E:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
+D:\TacticalVRCoreExample-main\Plugins\VRExpansion\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\SteamVRKeyboardComponent.generated.h

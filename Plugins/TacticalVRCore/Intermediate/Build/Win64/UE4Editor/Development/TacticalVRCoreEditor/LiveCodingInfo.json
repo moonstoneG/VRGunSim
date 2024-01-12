@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TacticalVRCoreEditor.cpp.obj": [
+			"TacticalVRCoreEditor.cpp.obj",
+			"TVRGunDetails.cpp.obj"
+		]
+	}
+}
